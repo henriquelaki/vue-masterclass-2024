@@ -13,8 +13,7 @@ module.exports = {
     ecmaVersion: 'latest'
   },
   env: {
-    node: true,
-    es2024: true
+    node: true
   },
   rules: {
     'vue/multi-word-component-names': 0
